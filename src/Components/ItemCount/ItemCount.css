@@ -1,0 +1,48 @@
+.estilosContador {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: auto;
+    background: lightgray;
+    color: black;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.contenedorControles {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    width: 80%;
+    height: 30px;
+}
+
+.masmenos {
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: lightblue;
+}
+.botonControl:disabled{
+    background: lightslategray;
+}
+
+.botonAgregar {
+    padding: 10px;
+    border-radius: 5px;
+    background: #101c2b;
+    color: white;
+    width: 100%;
+    margin: 10px 0;
+}
+.botonAgregar:disabled{
+    background:lightgray;
+}

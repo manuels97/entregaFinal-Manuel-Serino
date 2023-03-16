@@ -1,0 +1,22 @@
+.carrito-container{
+    background-color: lightblue;
+    width: 30%;
+    margin: 10px auto;
+    display: flex;
+    
+    
+}
+.carrito-img-container{
+    display: flex;
+    width: 30%;
+    align-items: center;
+}
+.carrito-img-container img{
+    width: 70px;
+}
+.carrito{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    
+}

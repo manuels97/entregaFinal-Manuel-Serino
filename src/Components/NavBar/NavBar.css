@@ -1,0 +1,38 @@
+nav{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+}
+.inicio{
+    text-decoration: none;
+    color: white;
+    
+}
+.nav-container{
+    
+}
+.nav-brand{
+    width: 60px;
+    
+    
+    
+}
+.navegacion{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.navegacion a{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+.mt-2{
+    
+}
+.boton{
+    background-color: lightblue;
+}

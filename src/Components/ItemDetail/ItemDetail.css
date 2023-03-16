@@ -1,0 +1,13 @@
+.itemDetail-img{
+    width: 140px;
+    height: 140px;
+}
+
+.detail{
+    text-align: center;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
